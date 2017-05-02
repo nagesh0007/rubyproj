@@ -1,0 +1,130 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	color: green;
+	text-align: center;
+}
+
+p {
+	font-family: Garamond, serif;
+}
+
+.index-welcome {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.top-10 {
+	margin-top: 10px;
+}
+
+
+/* NAVBAR*/
+
+.navbar-default {
+   background-color: #4ca64c;
+   border-color: #198c19;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: #4ca64c;
+  color: black;
+}
+
+.form-control {
+  width: auto;
+}
+
+.login {
+  margin-top: 5px;
+}
+
+.nav>li>a:hover {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+  background-color: transparent;
+}
+
+
+
+/*LANDING PAGE CAROUSEL*/
+
+.lp-car-product-name {
+	font-size: 2em;
+	color: #eee;
+}
+.new{
+    padding-left: 200px;
+}
+.carousel-indicators {
+	bottom: -10px;
+}
+.carousel-inner{
+    padding-left: 200px;
+}
+.carousel-indicators li {
+	border: 1px solid #ddd;
+}
+
+.carousel-indicators .active {
+	background-color: #eee;
+}
+
+
+/* CONTACT PAGE */
+
+.contact-intro {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#wrap-contact {
+  width: 40%;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 60%;
+  }
+}
+
+
+.form-control {
+  width: 100%;
+}
+
+
+
+
+/* FOOTER */
+
+footer {
+	text-align: left;
+	background-color: #4ca64c;
+	height: 30px;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+  left: 0;
+  z-index: 1000;
+}
+
+.container-footer {
+	width: 80%;
+	margin-left: 10%
+	
+}

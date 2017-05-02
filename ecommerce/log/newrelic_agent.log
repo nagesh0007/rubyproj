@@ -1,0 +1,1117 @@
+# Logfile created on 2017-04-05 17:02:18 +0530 by logger.rb/56438
+[2017-04-05 17:02:18 +0530 nagender (8892)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-05 17:02:18 +0530 nagender (8892)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-05 17:02:18 +0530 nagender (8892)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-05 17:02:19 +0530 nagender (8892)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-05 17:02:19 +0530 nagender (8892)] INFO : Environment: development
+[2017-04-05 17:02:19 +0530 nagender (8892)] INFO : No known dispatcher detected.
+[2017-04-05 17:02:19 +0530 nagender (8892)] INFO : Application: My Application (Development)
+[2017-04-05 17:02:19 +0530 nagender (8892)] WARN : Failed to determine processor count, assuming 1
+[2017-04-05 17:02:20 +0530 nagender (8892)] INFO : Installing ActiveJob instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Net instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Redis Instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Installing Rails 5 view instrumentation
+[2017-04-05 17:02:21 +0530 nagender (8892)] INFO : Finished instrumentation
+[2017-04-05 17:02:22 +0530 nagender (8892)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-05 17:02:54 +0530 nagender (8892)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-05 17:19:03 +0530 nagender (8892)] INFO : Starting Agent shutdown
+[2017-04-06 12:26:56 +0530 nagender (10188)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 12:26:56 +0530 nagender (10188)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 12:26:56 +0530 nagender (10188)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Environment: development
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : No known dispatcher detected.
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Application: My Application (Development)
+[2017-04-06 12:26:57 +0530 nagender (10188)] WARN : Failed to determine processor count, assuming 1
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Net instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Redis Instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Installing Rails 5 view instrumentation
+[2017-04-06 12:26:57 +0530 nagender (10188)] INFO : Finished instrumentation
+[2017-04-06 12:27:00 +0530 nagender (10188)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 12:27:35 +0530 nagender (10188)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-06 12:39:52 +0530 nagender (10188)] INFO : Starting Agent shutdown
+[2017-04-06 13:09:50 +0530 nagender (7648)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 13:09:50 +0530 nagender (7648)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 13:09:50 +0530 nagender (7648)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-06 13:09:51 +0530 nagender (7648)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 13:09:51 +0530 nagender (7648)] INFO : Environment: development
+[2017-04-06 13:09:51 +0530 nagender (7648)] INFO : No known dispatcher detected.
+[2017-04-06 13:09:51 +0530 nagender (7648)] INFO : Application: My Application (Development)
+[2017-04-06 13:09:51 +0530 nagender (7648)] WARN : Failed to determine processor count, assuming 1
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Net instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Redis Instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Installing Rails 5 view instrumentation
+[2017-04-06 13:09:52 +0530 nagender (7648)] INFO : Finished instrumentation
+[2017-04-06 13:09:57 +0530 nagender (7648)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 13:10:32 +0530 nagender (7648)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-06 13:57:45 +0530 nagender (7648)] INFO : Starting Agent shutdown
+[2017-04-06 17:15:17 +0530 nagender (9276)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-06 17:15:17 +0530 nagender (9276)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-06 17:15:17 +0530 nagender (9276)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Environment: development
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : No known dispatcher detected.
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Application: My Application (Development)
+[2017-04-06 17:15:18 +0530 nagender (9276)] WARN : Failed to determine processor count, assuming 1
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing ActiveJob instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Net instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Redis Instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Installing Rails 5 view instrumentation
+[2017-04-06 17:15:18 +0530 nagender (9276)] INFO : Finished instrumentation
+[2017-04-06 17:15:19 +0530 nagender (9276)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-06 17:15:49 +0530 nagender (9276)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-07 00:54:36 +0530 nagender (9276)] INFO : Starting Agent shutdown
+[2017-04-07 08:34:40 +0530 nagender (9596)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-07 08:34:40 +0530 nagender (9596)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-07 08:34:40 +0530 nagender (9596)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-07 08:34:41 +0530 nagender (9596)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-07 08:34:41 +0530 nagender (9596)] INFO : Environment: development
+[2017-04-07 08:34:41 +0530 nagender (9596)] INFO : No known dispatcher detected.
+[2017-04-07 08:34:41 +0530 nagender (9596)] INFO : Application: My Application (Development)
+[2017-04-07 08:34:41 +0530 nagender (9596)] WARN : Failed to determine processor count, assuming 1
+[2017-04-07 08:34:41 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 08:34:41 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 08:34:41 +0530 nagender (9596)] INFO : Will re-attempt in 60 seconds
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing ActiveJob instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Net instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Redis Instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Installing Rails 5 view instrumentation
+[2017-04-07 08:34:42 +0530 nagender (9596)] INFO : Finished instrumentation
+[2017-04-07 08:34:48 +0530 nagender (9596)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-07 08:35:41 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 08:35:41 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 08:35:41 +0530 nagender (9596)] INFO : Will re-attempt in 120 seconds
+[2017-04-07 09:25:07 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:25:07 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:25:07 +0530 nagender (9596)] INFO : Will re-attempt in 180 seconds
+[2017-04-07 09:28:07 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:28:07 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:28:07 +0530 nagender (9596)] INFO : Will re-attempt in 240 seconds
+[2017-04-07 09:32:07 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:32:07 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:32:07 +0530 nagender (9596)] INFO : Will re-attempt in 300 seconds
+[2017-04-07 09:38:23 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:38:23 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:38:23 +0530 nagender (9596)] INFO : Will re-attempt in 360 seconds
+[2017-04-07 09:44:23 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:44:23 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:44:23 +0530 nagender (9596)] INFO : Will re-attempt in 420 seconds
+[2017-04-07 09:51:25 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 09:51:25 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 09:51:25 +0530 nagender (9596)] INFO : Will re-attempt in 480 seconds
+[2017-04-07 10:31:39 +0530 nagender (9596)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 10:31:39 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 10:31:39 +0530 nagender (9596)] INFO : Will re-attempt in 540 seconds
+[2017-04-07 10:41:03 +0530 nagender (9596)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-07 11:00:23 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:00:23 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001579 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:01:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-07 11:01:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.044276 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:01:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:01:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.002005 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:02:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-07 11:02:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.002006 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:02:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:02:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001003 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:03:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-07 11:03:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.120081 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:03:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:03:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.002002 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:04:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-07 11:04:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.002264 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:04:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:04:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001005 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:05:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-07 11:05:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001988 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:05:04 +0530 nagender (9596)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-07 11:05:04 +0530 nagender (9596)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001002 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:05:16 +0530 nagender (9596)] INFO : Starting Agent shutdown
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Environment: development
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : No known dispatcher detected.
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Application: My Application (Development)
+[2017-04-07 11:06:29 +0530 nagender (936)] WARN : Failed to determine processor count, assuming 1
+[2017-04-07 11:06:29 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:06:29 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Will re-attempt in 60 seconds
+[2017-04-07 11:06:29 +0530 nagender (936)] INFO : Installing ActiveJob instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Net instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Redis Instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Installing Rails 5 view instrumentation
+[2017-04-07 11:06:30 +0530 nagender (936)] INFO : Finished instrumentation
+[2017-04-07 11:06:31 +0530 nagender (936)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-07 11:07:29 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:07:29 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:07:29 +0530 nagender (936)] INFO : Will re-attempt in 120 seconds
+[2017-04-07 11:09:30 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:09:30 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:09:30 +0530 nagender (936)] INFO : Will re-attempt in 180 seconds
+[2017-04-07 11:12:30 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:12:30 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:12:30 +0530 nagender (936)] INFO : Will re-attempt in 240 seconds
+[2017-04-07 11:16:30 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:16:30 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:16:30 +0530 nagender (936)] INFO : Will re-attempt in 300 seconds
+[2017-04-07 11:21:30 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:21:30 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:21:30 +0530 nagender (936)] INFO : Will re-attempt in 360 seconds
+[2017-04-07 11:27:31 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:27:32 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:27:32 +0530 nagender (936)] INFO : Will re-attempt in 420 seconds
+[2017-04-07 11:34:32 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:34:32 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:34:32 +0530 nagender (936)] INFO : Will re-attempt in 480 seconds
+[2017-04-07 11:42:32 +0530 nagender (936)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-07 11:42:32 +0530 nagender (936)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-07 11:42:32 +0530 nagender (936)] INFO : Will re-attempt in 540 seconds
+[2017-04-07 11:45:59 +0530 nagender (936)] INFO : Starting Agent shutdown
+[2017-04-13 12:41:53 +0530 nagender (6628)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-13 12:41:53 +0530 nagender (6628)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-13 12:41:53 +0530 nagender (6628)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-13 12:41:54 +0530 nagender (6628)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-13 12:41:54 +0530 nagender (6628)] INFO : Environment: development
+[2017-04-13 12:41:54 +0530 nagender (6628)] INFO : No known dispatcher detected.
+[2017-04-13 12:41:54 +0530 nagender (6628)] INFO : Application: My Application (Development)
+[2017-04-13 12:41:54 +0530 nagender (6628)] WARN : Failed to determine processor count, assuming 1
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing ActiveJob instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Net instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Redis Instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Installing Rails 5 view instrumentation
+[2017-04-13 12:41:55 +0530 nagender (6628)] INFO : Finished instrumentation
+[2017-04-13 12:42:02 +0530 nagender (6628)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-13 12:42:40 +0530 nagender (6628)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-13 13:01:16 +0530 nagender (6628)] INFO : Starting Agent shutdown
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Environment: development
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : No known dispatcher detected.
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Application: My Application (Development)
+[2017-04-13 13:04:52 +0530 nagender (6972)] WARN : Failed to determine processor count, assuming 1
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Installing ActiveJob instrumentation
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-13 13:04:52 +0530 nagender (6972)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Net instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Redis Instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Installing Rails 5 view instrumentation
+[2017-04-13 13:04:53 +0530 nagender (6972)] INFO : Finished instrumentation
+[2017-04-13 13:04:54 +0530 nagender (6972)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-13 13:05:35 +0530 nagender (6972)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-13 13:10:30 +0530 nagender (6972)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-13 13:10:30 +0530 nagender (6972)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.1299 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:10:30 +0530 nagender (6972)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-13 13:10:30 +0530 nagender (6972)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.030781 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:10:41 +0530 nagender (6972)] INFO : Starting Agent shutdown
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Environment: development
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : No known dispatcher detected.
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Application: My Application (Development)
+[2017-04-13 13:10:53 +0530 nagender (2556)] WARN : Failed to determine processor count, assuming 1
+[2017-04-13 13:10:53 +0530 nagender (2556)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-13 13:10:53 +0530 nagender (2556)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Will re-attempt in 60 seconds
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing ActiveJob instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Net instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Redis Instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Installing Rails 5 view instrumentation
+[2017-04-13 13:10:53 +0530 nagender (2556)] INFO : Finished instrumentation
+[2017-04-13 13:10:54 +0530 nagender (2556)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-13 13:11:53 +0530 nagender (2556)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-13 13:11:53 +0530 nagender (2556)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:11:53 +0530 nagender (2556)] INFO : Will re-attempt in 120 seconds
+[2017-04-13 13:13:53 +0530 nagender (2556)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-13 13:13:53 +0530 nagender (2556)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:13:53 +0530 nagender (2556)] INFO : Will re-attempt in 180 seconds
+[2017-04-13 13:16:53 +0530 nagender (2556)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-13 13:16:53 +0530 nagender (2556)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-13 13:16:53 +0530 nagender (2556)] INFO : Will re-attempt in 240 seconds
+[2017-04-13 13:20:20 +0530 nagender (2556)] INFO : Starting Agent shutdown
+[2017-04-21 11:29:01 +0530 nagender (4456)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-21 11:29:01 +0530 nagender (4456)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-21 11:29:01 +0530 nagender (4456)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-21 11:29:02 +0530 nagender (4456)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-21 11:29:02 +0530 nagender (4456)] INFO : Environment: development
+[2017-04-21 11:29:02 +0530 nagender (4456)] INFO : No known dispatcher detected.
+[2017-04-21 11:29:02 +0530 nagender (4456)] INFO : Application: My Application (Development)
+[2017-04-21 11:29:02 +0530 nagender (4456)] WARN : Failed to determine processor count, assuming 1
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing ActiveJob instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Net instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Redis Instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Installing Rails 5 view instrumentation
+[2017-04-21 11:29:03 +0530 nagender (4456)] INFO : Finished instrumentation
+[2017-04-21 11:29:09 +0530 nagender (4456)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-21 11:29:35 +0530 nagender (4456)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:29:35 +0530 nagender (4456)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-21 11:29:35 +0530 nagender (4456)] INFO : Will re-attempt in 60 seconds
+[2017-04-21 11:30:58 +0530 nagender (4456)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:30:58 +0530 nagender (4456)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-21 11:30:58 +0530 nagender (4456)] INFO : Will re-attempt in 120 seconds
+[2017-04-21 11:33:21 +0530 nagender (4456)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:33:21 +0530 nagender (4456)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-21 11:33:21 +0530 nagender (4456)] INFO : Will re-attempt in 180 seconds
+[2017-04-21 11:36:47 +0530 nagender (4456)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:36:47 +0530 nagender (4456)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-21 11:36:47 +0530 nagender (4456)] INFO : Will re-attempt in 240 seconds
+[2017-04-21 11:51:44 +0530 nagender (4456)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:51:44 +0530 nagender (4456)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-21 11:51:44 +0530 nagender (4456)] INFO : Will re-attempt in 300 seconds
+[2017-04-21 11:52:56 +0530 nagender (4456)] INFO : Starting Agent shutdown
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Environment: development
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : No known dispatcher detected.
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Application: My Application (Development)
+[2017-04-21 11:58:17 +0530 nagender (1188)] WARN : Failed to determine processor count, assuming 1
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing ActiveJob instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Net instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Redis Instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Installing Rails 5 view instrumentation
+[2017-04-21 11:58:17 +0530 nagender (1188)] INFO : Finished instrumentation
+[2017-04-21 11:58:18 +0530 nagender (1188)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-21 11:59:14 +0530 nagender (1188)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 11:59:14 +0530 nagender (1188)] ERROR : NewRelic::Agent::NewRelicService::CollectorError: RuntimeError: Server Error (IOException): java.util.concurrent.TimeoutException: Idle timeout expired: 5000/5000 ms
+[2017-04-21 11:59:14 +0530 nagender (1188)] INFO : Will re-attempt in 60 seconds
+[2017-04-21 12:01:06 +0530 nagender (1188)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 12:01:06 +0530 nagender (1188)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector-196.newrelic.com:443 after 2 attempts: end of file reached
+[2017-04-21 12:01:06 +0530 nagender (1188)] INFO : Will re-attempt in 120 seconds
+[2017-04-21 12:03:58 +0530 nagender (1188)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 12:03:58 +0530 nagender (1188)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector-196.newrelic.com:443 after 2 attempts: An existing connection was forcibly closed by the remote host. - SSL_connect
+[2017-04-21 12:03:58 +0530 nagender (1188)] INFO : Will re-attempt in 180 seconds
+[2017-04-21 12:07:29 +0530 nagender (1188)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 12:07:29 +0530 nagender (1188)] ERROR : NewRelic::Agent::NewRelicService::CollectorError: RuntimeError: Server Error (IOException): java.util.concurrent.TimeoutException: Idle timeout expired: 5000/5000 ms
+[2017-04-21 12:07:29 +0530 nagender (1188)] INFO : Will re-attempt in 240 seconds
+[2017-04-21 12:12:09 +0530 nagender (1188)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-21 12:12:09 +0530 nagender (1188)] ERROR : NewRelic::Agent::NewRelicService::CollectorError: RuntimeError: Server Error (IOException): java.util.concurrent.TimeoutException: Idle timeout expired: 5000/5000 ms
+[2017-04-21 12:12:09 +0530 nagender (1188)] INFO : Will re-attempt in 300 seconds
+[2017-04-21 12:14:44 +0530 nagender (1188)] INFO : Starting Agent shutdown
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : Environment: development
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : No known dispatcher detected.
+[2017-04-26 21:56:55 +0530 nagender (4260)] INFO : Application: My Application (Development)
+[2017-04-26 21:56:56 +0530 nagender (4260)] WARN : Failed to determine processor count, assuming 1
+[2017-04-26 21:56:56 +0530 nagender (4260)] INFO : Installing ActiveJob instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Net instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Redis Instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Installing Rails 5 view instrumentation
+[2017-04-26 21:56:57 +0530 nagender (4260)] INFO : Finished instrumentation
+[2017-04-26 21:57:03 +0530 nagender (4260)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-26 21:57:32 +0530 nagender (4260)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-26 22:08:10 +0530 nagender (4260)] INFO : Starting Agent shutdown
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Environment: development
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : No known dispatcher detected.
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Application: My Application (Development)
+[2017-04-26 22:23:25 +0530 nagender (6228)] WARN : Failed to determine processor count, assuming 1
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing ActiveJob instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Net instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Redis Instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Installing Rails 5 view instrumentation
+[2017-04-26 22:23:25 +0530 nagender (6228)] INFO : Finished instrumentation
+[2017-04-26 22:23:26 +0530 nagender (6228)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-26 22:23:53 +0530 nagender (6228)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-27 13:58:39 +0530 nagender (6228)] INFO : Starting Agent shutdown
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Environment: development
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : No known dispatcher detected.
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Application: My Application (Development)
+[2017-04-27 13:58:55 +0530 nagender (3252)] WARN : Failed to determine processor count, assuming 1
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing ActiveJob instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Net instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Redis Instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Installing Rails 5 view instrumentation
+[2017-04-27 13:58:55 +0530 nagender (3252)] INFO : Finished instrumentation
+[2017-04-27 13:58:56 +0530 nagender (3252)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-27 13:59:29 +0530 nagender (3252)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-27 15:02:33 +0530 nagender (3252)] INFO : Starting Agent shutdown
+[2017-04-27 17:03:48 +0530 nagender (5152)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-27 17:03:48 +0530 nagender (5152)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-27 17:03:48 +0530 nagender (5152)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-27 17:03:49 +0530 nagender (5152)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-27 17:03:49 +0530 nagender (5152)] INFO : Environment: development
+[2017-04-27 17:03:49 +0530 nagender (5152)] INFO : No known dispatcher detected.
+[2017-04-27 17:03:49 +0530 nagender (5152)] INFO : Application: My Application (Development)
+[2017-04-27 17:03:49 +0530 nagender (5152)] WARN : Failed to determine processor count, assuming 1
+[2017-04-27 17:03:50 +0530 nagender (5152)] INFO : Installing ActiveJob instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Net instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Redis Instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Installing Rails 5 view instrumentation
+[2017-04-27 17:03:51 +0530 nagender (5152)] INFO : Finished instrumentation
+[2017-04-27 17:03:56 +0530 nagender (5152)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-27 17:04:33 +0530 nagender (5152)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-27 17:24:43 +0530 nagender (5152)] INFO : Starting Agent shutdown
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Environment: development
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : No known dispatcher detected.
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Application: My Application (Development)
+[2017-04-27 17:26:54 +0530 nagender (5436)] WARN : Failed to determine processor count, assuming 1
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing ActiveJob instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Net instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Redis Instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Installing Rails 5 view instrumentation
+[2017-04-27 17:26:54 +0530 nagender (5436)] INFO : Finished instrumentation
+[2017-04-27 17:26:56 +0530 nagender (5436)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-27 17:27:11 +0530 nagender (5436)] INFO : Starting Agent shutdown
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Environment: development
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : No known dispatcher detected.
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Application: My Application (Development)
+[2017-04-27 17:53:40 +0530 nagender (6472)] WARN : Failed to determine processor count, assuming 1
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing ActiveJob instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Net instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Redis Instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Installing Rails 5 view instrumentation
+[2017-04-27 17:53:40 +0530 nagender (6472)] INFO : Finished instrumentation
+[2017-04-27 17:53:42 +0530 nagender (6472)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-27 17:54:07 +0530 nagender (6472)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-27 21:16:10 +0530 nagender (6472)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-27 21:16:10 +0530 nagender (6472)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.001002 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-27 21:16:59 +0530 nagender (6472)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[2017-04-27 21:16:59 +0530 nagender (6472)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.000998 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-27 21:16:59 +0530 nagender (6472)] ERROR : 1 error(s) running task for event 'report_event_data' in Agent Event Loop:
+[2017-04-27 21:16:59 +0530 nagender (6472)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error connecting to collector-196.newrelic.com:443 after 0.0 seconds: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-27 21:52:38 +0530 nagender (6472)] INFO : Starting Agent shutdown
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Environment: development
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : No known dispatcher detected.
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Application: My Application (Development)
+[2017-04-27 21:53:03 +0530 nagender (6284)] WARN : Failed to determine processor count, assuming 1
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing ActiveJob instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Net instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Redis Instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Installing Rails 5 view instrumentation
+[2017-04-27 21:53:03 +0530 nagender (6284)] INFO : Finished instrumentation
+[2017-04-27 21:53:04 +0530 nagender (6284)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-27 21:53:34 +0530 nagender (6284)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-27 22:14:44 +0530 nagender (6284)] INFO : Starting Agent shutdown
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Starting the New Relic agent version 4.0.0.332 in "development" environment.
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Environment: development
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : No known dispatcher detected.
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Application: My Application (Development)
+[2017-04-28 08:43:28 +0530 nagender (7744)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Net instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Redis Instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 08:43:28 +0530 nagender (7744)] INFO : Finished instrumentation
+[2017-04-28 08:43:29 +0530 nagender (7744)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-28 08:43:52 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 08:43:52 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 08:43:52 +0530 nagender (7744)] INFO : Will re-attempt in 60 seconds
+[2017-04-28 08:45:15 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 08:45:15 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 08:45:15 +0530 nagender (7744)] INFO : Will re-attempt in 120 seconds
+[2017-04-28 08:47:37 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 08:47:37 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 08:47:37 +0530 nagender (7744)] INFO : Will re-attempt in 180 seconds
+[2017-04-28 08:50:59 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 08:50:59 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 08:50:59 +0530 nagender (7744)] INFO : Will re-attempt in 240 seconds
+[2017-04-28 08:55:21 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 08:55:21 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 08:55:21 +0530 nagender (7744)] INFO : Will re-attempt in 300 seconds
+[2017-04-28 09:00:43 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 09:00:43 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 09:00:43 +0530 nagender (7744)] INFO : Will re-attempt in 360 seconds
+[2017-04-28 09:07:05 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 09:07:05 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 09:07:05 +0530 nagender (7744)] INFO : Will re-attempt in 420 seconds
+[2017-04-28 09:14:27 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 09:14:27 +0530 nagender (7744)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 09:14:27 +0530 nagender (7744)] INFO : Will re-attempt in 480 seconds
+[2017-04-28 09:37:02 +0530 nagender (7744)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 09:37:02 +0530 nagender (7744)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 09:37:02 +0530 nagender (7744)] INFO : Will re-attempt in 540 seconds
+[2017-04-28 09:41:41 +0530 nagender (7744)] INFO : Starting Agent shutdown
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Environment: development
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : No known dispatcher detected.
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Application: My Application (Development)
+[2017-04-28 09:47:48 +0530 nagender (9004)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Net instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:47:48 +0530 nagender (9004)] INFO : Finished instrumentation
+[2017-04-28 09:47:49 +0530 nagender (9004)] INFO : Starting Agent shutdown
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Environment: development
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : No known dispatcher detected.
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Application: My Application (Development)
+[2017-04-28 09:48:44 +0530 nagender (2504)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Net instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:48:44 +0530 nagender (2504)] INFO : Finished instrumentation
+[2017-04-28 09:48:45 +0530 nagender (2504)] INFO : Starting Agent shutdown
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : Environment: development
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : No known dispatcher detected.
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : Application: My Application (Development)
+[2017-04-28 09:51:08 +0530 nagender (1616)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:51:08 +0530 nagender (1616)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Net instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:51:09 +0530 nagender (1616)] INFO : Finished instrumentation
+[2017-04-28 09:51:10 +0530 nagender (1616)] INFO : Starting Agent shutdown
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Environment: development
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : No known dispatcher detected.
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Application: My Application (Development)
+[2017-04-28 09:52:37 +0530 nagender (5680)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Net instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:52:37 +0530 nagender (5680)] INFO : Finished instrumentation
+[2017-04-28 09:52:38 +0530 nagender (5680)] INFO : Starting Agent shutdown
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Environment: development
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : No known dispatcher detected.
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Application: My Application (Development)
+[2017-04-28 09:54:15 +0530 nagender (6408)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Net instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:54:15 +0530 nagender (6408)] INFO : Finished instrumentation
+[2017-04-28 09:54:16 +0530 nagender (6408)] INFO : Starting Agent shutdown
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Environment: development
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : No known dispatcher detected.
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Application: My Application (Development)
+[2017-04-28 09:55:41 +0530 nagender (7640)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Net instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:55:41 +0530 nagender (7640)] INFO : Finished instrumentation
+[2017-04-28 09:55:42 +0530 nagender (7640)] INFO : Starting Agent shutdown
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Environment: development
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : No known dispatcher detected.
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Application: My Application (Development)
+[2017-04-28 09:57:40 +0530 nagender (7436)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Net instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Redis Instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 09:57:40 +0530 nagender (7436)] INFO : Finished instrumentation
+[2017-04-28 09:57:42 +0530 nagender (7436)] INFO : Starting Agent shutdown
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Environment: development
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : No known dispatcher detected.
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Application: My Application (Development)
+[2017-04-28 10:03:34 +0530 nagender (6288)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 10:03:34 +0530 nagender (6288)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:03:34 +0530 nagender (6288)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Will re-attempt in 60 seconds
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Net instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Redis Instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 10:03:34 +0530 nagender (6288)] INFO : Finished instrumentation
+[2017-04-28 10:03:35 +0530 nagender (6288)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-28 10:04:34 +0530 nagender (6288)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:04:34 +0530 nagender (6288)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 10:04:34 +0530 nagender (6288)] INFO : Will re-attempt in 120 seconds
+[2017-04-28 10:06:34 +0530 nagender (6288)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:06:34 +0530 nagender (6288)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 10:06:34 +0530 nagender (6288)] INFO : Will re-attempt in 180 seconds
+[2017-04-28 10:09:40 +0530 nagender (6288)] INFO : Starting Agent shutdown
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Downloads/Compressed/ecommerce-master)
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : Environment: development
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : No known dispatcher detected.
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : Application: My Application (Development)
+[2017-04-28 10:12:57 +0530 nagender (4604)] WARN : Failed to determine processor count, assuming 1
+[2017-04-28 10:12:57 +0530 nagender (4604)] INFO : Installing ActiveJob instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Net instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Redis Instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Rails 5 Controller instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Installing Rails 5 view instrumentation
+[2017-04-28 10:12:58 +0530 nagender (4604)] INFO : Finished instrumentation
+[2017-04-28 10:12:59 +0530 nagender (4604)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-28 10:13:39 +0530 nagender (4604)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:13:39 +0530 nagender (4604)] ERROR : NewRelic::Agent::NewRelicService::CollectorError: RuntimeError: Server Error (IOException): java.util.concurrent.TimeoutException: Idle timeout expired: 5000/5000 ms
+[2017-04-28 10:13:39 +0530 nagender (4604)] INFO : Will re-attempt in 60 seconds
+[2017-04-28 10:15:21 +0530 nagender (4604)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:15:21 +0530 nagender (4604)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector-196.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 10:15:21 +0530 nagender (4604)] INFO : Will re-attempt in 120 seconds
+[2017-04-28 10:17:45 +0530 nagender (4604)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:17:45 +0530 nagender (4604)] ERROR : OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=error: certificate verify failed
+[2017-04-28 10:18:21 +0530 nagender (4604)] INFO : Will re-attempt in 180 seconds
+[2017-04-28 10:32:29 +0530 nagender (4604)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2017-04-28 10:32:29 +0530 nagender (4604)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector-196.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector-196.newrelic.com:443 (getaddrinfo: No such host is known. )
+[2017-04-28 10:32:29 +0530 nagender (4604)] INFO : Will re-attempt in 240 seconds
+[2017-04-28 10:36:54 +0530 nagender (4604)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-04-28 11:30:13 +0530 nagender (4604)] INFO : Starting Agent shutdown
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : Environment: development
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : No known dispatcher detected.
+[2017-05-01 00:30:31 +0530 nagender (6924)] INFO : Application: My Application (Development)
+[2017-05-01 00:30:31 +0530 nagender (6924)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Net instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:30:32 +0530 nagender (6924)] INFO : Finished instrumentation
+[2017-05-01 00:30:35 +0530 nagender (6924)] INFO : Starting Agent shutdown
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Environment: development
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : No known dispatcher detected.
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Application: My Application (Development)
+[2017-05-01 00:33:02 +0530 nagender (6472)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Net instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:33:02 +0530 nagender (6472)] INFO : Finished instrumentation
+[2017-05-01 00:33:03 +0530 nagender (6472)] INFO : Starting Agent shutdown
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Environment: development
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : No known dispatcher detected.
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Application: My Application (Development)
+[2017-05-01 00:39:13 +0530 nagender (6812)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Net instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:39:13 +0530 nagender (6812)] INFO : Finished instrumentation
+[2017-05-01 00:39:14 +0530 nagender (6812)] INFO : Starting Agent shutdown
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Environment: development
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : No known dispatcher detected.
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Application: My Application (Development)
+[2017-05-01 00:46:40 +0530 nagender (5140)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Net instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:46:40 +0530 nagender (5140)] INFO : Finished instrumentation
+[2017-05-01 00:46:42 +0530 nagender (5140)] INFO : Starting Agent shutdown
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Environment: development
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : No known dispatcher detected.
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Application: My Application (Development)
+[2017-05-01 00:49:01 +0530 nagender (4488)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Net instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:49:01 +0530 nagender (4488)] INFO : Finished instrumentation
+[2017-05-01 00:49:03 +0530 nagender (4488)] INFO : Starting Agent shutdown
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Environment: development
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : No known dispatcher detected.
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Application: My Application (Development)
+[2017-05-01 00:50:29 +0530 nagender (5000)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Net instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:50:29 +0530 nagender (5000)] INFO : Finished instrumentation
+[2017-05-01 00:50:30 +0530 nagender (5000)] INFO : Starting Agent shutdown
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : Environment: development
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : No known dispatcher detected.
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : Application: My Application (Development)
+[2017-05-01 00:51:11 +0530 nagender (6664)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:51:11 +0530 nagender (6664)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Net instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:51:12 +0530 nagender (6664)] INFO : Finished instrumentation
+[2017-05-01 00:51:13 +0530 nagender (6664)] INFO : Starting Agent shutdown
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Environment: development
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : No known dispatcher detected.
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Application: My Application (Development)
+[2017-05-01 00:53:18 +0530 nagender (1520)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Net instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:53:18 +0530 nagender (1520)] INFO : Finished instrumentation
+[2017-05-01 00:53:20 +0530 nagender (1520)] INFO : Starting Agent shutdown
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Environment: development
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : No known dispatcher detected.
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Application: My Application (Development)
+[2017-05-01 00:55:08 +0530 nagender (6600)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Net instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:55:08 +0530 nagender (6600)] INFO : Finished instrumentation
+[2017-05-01 00:55:09 +0530 nagender (6600)] INFO : Starting Agent shutdown
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Environment: development
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : No known dispatcher detected.
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Application: My Application (Development)
+[2017-05-01 00:56:15 +0530 nagender (540)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Net instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:56:15 +0530 nagender (540)] INFO : Finished instrumentation
+[2017-05-01 00:56:17 +0530 nagender (540)] INFO : Starting Agent shutdown
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Environment: development
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : No known dispatcher detected.
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Application: My Application (Development)
+[2017-05-01 00:58:40 +0530 nagender (6076)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Net instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Redis Instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 00:58:40 +0530 nagender (6076)] INFO : Finished instrumentation
+[2017-05-01 00:58:42 +0530 nagender (6076)] INFO : Starting Agent shutdown
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : Environment: development
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : No known dispatcher detected.
+[2017-05-01 01:03:30 +0530 nagender (988)] INFO : Application: My Application (Development)
+[2017-05-01 01:03:30 +0530 nagender (988)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Net instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Redis Instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 01:03:31 +0530 nagender (988)] INFO : Finished instrumentation
+[2017-05-01 01:03:32 +0530 nagender (988)] INFO : Starting Agent shutdown
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Environment: development
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : No known dispatcher detected.
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Application: My Application (Development)
+[2017-05-01 01:05:27 +0530 nagender (5424)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Net instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Redis Instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 01:05:27 +0530 nagender (5424)] INFO : Finished instrumentation
+[2017-05-01 01:05:29 +0530 nagender (5424)] INFO : Starting Agent shutdown
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : Environment: development
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : No known dispatcher detected.
+[2017-05-01 01:07:19 +0530 nagender (6456)] INFO : Application: My Application (Development)
+[2017-05-01 01:07:19 +0530 nagender (6456)] WARN : Failed to determine processor count, assuming 1
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing ActiveJob instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Net instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Redis Instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Installing Rails 5 view instrumentation
+[2017-05-01 01:07:20 +0530 nagender (6456)] INFO : Finished instrumentation
+[2017-05-01 01:07:21 +0530 nagender (6456)] INFO : Starting Agent shutdown
+[2017-05-02 15:27:34 +0530 nagender (6028)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce-master)
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Environment: development
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : No known dispatcher detected.
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Application: My Application (Development)
+[2017-05-02 15:27:35 +0530 nagender (6028)] WARN : Failed to determine processor count, assuming 1
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing ActiveJob instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Net instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Redis Instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Installing Rails 5 view instrumentation
+[2017-05-02 15:27:35 +0530 nagender (6028)] INFO : Finished instrumentation
+[2017-05-02 15:27:39 +0530 nagender (6028)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-05-02 15:28:11 +0530 nagender (6028)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-05-02 15:33:20 +0530 nagender (6028)] INFO : Starting Agent shutdown
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Reading configuration from config/newrelic.yml (C:/Users/nagesh/Desktop/ecommerce)
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Environment: development
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : No known dispatcher detected.
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Application: My Application (Development)
+[2017-05-02 15:34:13 +0530 nagender (5804)] WARN : Failed to determine processor count, assuming 1
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing ActiveJob instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Memcache instrumentation for dalli gem
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Net instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Redis Instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Installing Rails 5 view instrumentation
+[2017-05-02 15:34:13 +0530 nagender (5804)] INFO : Finished instrumentation
+[2017-05-02 15:34:14 +0530 nagender (5804)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-05-02 15:34:39 +0530 nagender (5804)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1530177/applications/43446358
+[2017-05-02 15:35:27 +0530 nagender (5804)] INFO : Starting Agent shutdown

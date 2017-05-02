@@ -1,0 +1,31 @@
+<h1>Contact</h1>
+<p class="contact-intro">Thank you for your interest in Jaimala Purse Emporium. Please fill out the form below, if you have any queries.</p>
+
+<%= flash[:notice] %>
+
+<div id="wrap-contact" class="container">
+  <%= form_tag("/static_pages/thank_you") do %>
+  <div class="row">
+    <div class= "col-md-12">
+      <div class="form-group">
+        <%= label_tag :name %>
+        <%= text_field_tag :name, nil, class: "form-control", placeholder: "Enter Name"%>
+      </div><!-- end .form-group --> 
+      <div class="form-group">
+        <%= label_tag :email, "Email Address" %>
+        <%= text_field_tag :email, nil, class: "form-control", placeholder: "Enter Email", required: "required"%>
+      </div><!-- end .form-group --> 
+      <div class="form-group">
+        <%= label_tag :message %>
+        <%= text_area_tag :message, nil, class: "form-control", placeholder: "Enter Massage"%>
+      </div><!-- end .form-group --> 
+    </div><!-- end .col-md-4-->
+  </div><!-- end .row-->
+  <%= submit_tag "Send"%>
+  <% end %>
+</div>
+<div class="col-md-6">
+	<h3>Jaimala Purse,Karol Bagh</h3>
+
+	<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.3880681194873!2d77.18827061508298!3d28.648096882411668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d029ea9c0b709%3A0x5c6b3642d22f2508!2sJaimala+Purse+Emporium!5e0!3m2!1sen!2sin!4v1493225465929" allowfullscreen></iframe>
+</div>

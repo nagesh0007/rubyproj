@@ -1,0 +1,47 @@
+// Place all the styles related to the products controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.product-box {
+	border: solid black 0.5px;
+	margin-bottom: 15px;
+}
+
+.product-box-description {
+	text-align: center;
+}
+
+
+/* SHOW PRODUCT */
+
+.top-50 {
+	margin-top: 50px;
+}
+
+.container-rating {
+	text-align: center;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+.btn-clear {
+	margin: 5px;
+}
+
+
+
+/* NEW PRODUCT */
+
+.container-new {
+	text-align: center;
+	margin: 30px 20%;
+}
+
+.label-new {
+	padding-top: 5px;
+	text-align: right;
+  padding-right: 5px;
+}
